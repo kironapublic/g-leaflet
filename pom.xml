@@ -4,16 +4,16 @@
     <!-- POM file generated with GWT webAppCreator -->
     <modelVersion>4.0.0</modelVersion>
 
-    <version>1.0.0-rc3-SNAPSHOT</version>
+    <version>1.0.0-rc3.kirona</version>
     <groupId>org.peimari</groupId>
     <artifactId>g-leaflet</artifactId>
     <packaging>jar</packaging>
     <name>g-leaflet</name>
     
     <scm>
-        <url>git://github.com/mstahv/g-leaflet.git</url>
-        <connection>scm:git:git://github.com/mstahv/g-leaflet.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:/mstahv/g-leaflet.git</developerConnection>
+        <url>git://github.com/kironapublic/g-leaflet.git</url>
+        <connection>scm:git:git://github.com/kironapublic/g-leaflet.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:/kironapublic/g-leaflet.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
